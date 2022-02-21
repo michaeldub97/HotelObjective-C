@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - HCSStarRatingView (1.5)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+  - TYCyclePagerView (1.2.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - HCSStarRatingView
+  - SDWebImage
+  - TYCyclePagerView
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - HCSStarRatingView
+    - SDWebImage
+    - TYCyclePagerView
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+  TYCyclePagerView: 2b051dade0615c70784aa34f40c646feeddb7344
+
+PODFILE CHECKSUM: 3fc14b613c02a1b0f00340795bac3403c9efbdd6
+
+COCOAPODS: 1.11.2
